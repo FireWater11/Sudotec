@@ -1,0 +1,11 @@
+html
+
+head
+
+body                       HTML nunca dentro de BODY   HTML:Estrutura CSS:Visual JavaScript:Comportamentos
+
+Head:Nao aparece no site.
+Body:Tudo que for exposto
+
+P:Escrita
+H:Forma do texto

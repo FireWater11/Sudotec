@@ -1,0 +1,9 @@
+Tags aula3
+
+<b><b> Negrito
+
+<p><p> (Com <I><I> dentro Italico)
+
+<p><u><u><p> Sublinhado
+<p><del></del></p> Linha no meio
+<mark><mark> Pinta de amarelo

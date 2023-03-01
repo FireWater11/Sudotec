@@ -1,0 +1,3 @@
+<br><br> quebra linha,ESPAÇO
+<span><span> texto diferente
+<label><label> texto ao lado,sem espaçamento

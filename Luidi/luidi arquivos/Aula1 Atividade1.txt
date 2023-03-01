@@ -1,0 +1,33 @@
+Ex aula1:
+
+
+<html>
+
+<head>
+<title>Aula Atividade</title>
+</head>
+
+<body>
+    <h1>Titulo</h1>
+    <h2>Titulo</h2>
+    
+    <p>Lorem ipsum.</p>
+    <p>Lorem ipsum.</p>
+
+<H3>Titulo</H3>
+<h4>Titulo</h4>
+
+<p>Lorem ipsum.</p>
+<p>Lorem ipsum.</p>
+
+<h5>Titulo</h5>
+<h6>Titulo</h6>
+<p>Lorem ipsum.</p>
+
+</body>
+
+
+
+
+
+</html>
